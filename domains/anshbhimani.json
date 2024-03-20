@@ -1,11 +1,12 @@
 {
+    "description": "Ansh Bhimani Personal Website",
+    "repo": "https://github.com/AnshBhimani/anshbhimani.github.io",
     "owner": {
         "username": "AnshBhimani",
-        "email": "anshbhimani2003@gmail.com"
+        "email": "anshbhimani2003@gmail.com",
+        "twitter": "AnshBhimani"
     },
     "record": {
-        "A": ["217.174.245.249"],
-        "MX": ["hosts.is-a.dev"],
-        "TXT": "v=spf1 a mx ip4:217.174.245.249 ~all"
+        "CNAME": "anshbhimani.github.io"
     }
-}
+} 
